@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdessamadZenasni
 - 👀 I’m interested in creating web apps  
-- 🌱 I’m currently learning PHP/Laravel, JS/ReactJS 
+- 🌱 I’m currently learning PHP / Laravel, JS/ReactJS/VueJS
 - 💞️ I’m looking to collaborate on building something beautiful
 - 📫 Reach me on AbdessamadZenasni@gmail.com 
 
